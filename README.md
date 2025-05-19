@@ -1,7 +1,7 @@
 # Hey, how are you doing?
 ### My name is Luan
 👨‍🎓 Computer Technician, Graduated in Computer Science - IFCE <br/>
-🌵 Studying Python and R for data science.
+🌵 Computer Technician, Graduated in Computer Science - IFCE, Master's Student in Computer Science - UECE.
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luan-fran%C3%A7a-9b8834187/) [![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Luanffca) [![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)](https://public.tableau.com/app/profile/luan.fernandes.de.fran.a)
 
